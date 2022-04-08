@@ -1,0 +1,16 @@
+{
+  "name": "express_module",
+  "version": "1.0.0",
+  "description": "express_module & middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "amit jaggi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
